@@ -1,0 +1,25 @@
+{
+  "Nike": {
+    "cover": "/Nike/Vomero/IMG_001.jpg",
+    "models": {
+      "Vomero": [
+        "/Nike/Vomero/IMG_001.jpg",
+        "/Nike/Vomero/IMG_002.jpg"
+      ],
+      "V2K": [
+        "/Nike/V2K/IMG_101.jpg",
+        "/Nike/V2K/IMG_102.jpg"
+      ]
+    }
+  },
+
+  "Adidas": {
+    "cover": "/Adidas/Samba/IMG_500.jpg",
+    "models": {
+      "Samba": [
+        "/Adidas/Samba/IMG_500.jpg",
+        "/Adidas/Samba/IMG_501.jpg"
+      ]
+    }
+  }
+}
