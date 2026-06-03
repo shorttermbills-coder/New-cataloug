@@ -1,10 +1,9 @@
 {
   "Nike": {
-    "cover": "/Nike/Vomero/IMG_001.jpg",
+    "cover": "/Nike/Vomero/1.jpg",
     "models": {
       "Vomero": [
-        "/Nike/Vomero/IMG_001.jpg",
-        "/Nike/Vomero/IMG_002.jpg"
+        "/Nike/Vomero/1.jpg"
       ],
       "V2K": [
         "/Nike/V2K/IMG_101.jpg",
